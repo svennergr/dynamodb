@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@hapi/joi": "^17.1.0",
+    "@hapi/joi": "17.1.0",
     "async": "^2.6.3",
     "aws-sdk": "^2.597.0",
     "bunyan": "^1.8.12",
